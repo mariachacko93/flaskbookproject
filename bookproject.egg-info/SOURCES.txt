@@ -1,0 +1,8 @@
+setup.py
+bookproject/__init__.py
+bookproject/views.py
+bookproject.egg-info/PKG-INFO
+bookproject.egg-info/SOURCES.txt
+bookproject.egg-info/dependency_links.txt
+bookproject.egg-info/requires.txt
+bookproject.egg-info/top_level.txt
